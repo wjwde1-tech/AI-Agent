@@ -1,0 +1,87 @@
+[
+  {
+    "title": "中国智能客服与外呼市场观察",
+    "url": "https://www.36kr.com/p/market-ai-call-center",
+    "snippet": "多家企业在销售外呼场景使用AI提升触达效率，市场关注点从模型效果转向ROI与合规。",
+    "source_name": "36Kr",
+    "published_at": "2026-03-10"
+  },
+  {
+    "title": "B2B AI产品商业化路径研究",
+    "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/b2b-ai-go-to-market",
+    "snippet": "B2B AI solution增长来自垂直场景深耕，企业采购更关注可复制落地方法。",
+    "source_name": "McKinsey",
+    "published_at": "2025-12-01"
+  },
+  {
+    "title": "生成式AI在企业服务中的应用趋势",
+    "url": "https://www.hbr.org/2026/01/generative-ai-enterprise-service",
+    "snippet": "企业服务中的生成式AI应用从试点走向规模化，关键在于流程重构和管理协同。",
+    "source_name": "Harvard Business Review",
+    "published_at": "2026-01-08"
+  },
+  {
+    "title": "工业和信息化相关政策解读",
+    "url": "https://www.gov.cn/zhengce/2026-02/15/content_1234567.htm",
+    "snippet": "政策强调数字化转型与数据安全并重，鼓励智能化应用创新与产业协同。",
+    "source_name": "中国政府网",
+    "published_at": "2026-02-15"
+  },
+  {
+    "title": "销售自动化产品竞品动态",
+    "url": "https://www.reuters.com/business/ai-sales-automation-2026-04-02/",
+    "snippet": "海外多家厂商发布AI销售自动化能力，价格带与交付模式出现分层。",
+    "source_name": "Reuters",
+    "published_at": "2026-04-02"
+  },
+  {
+    "title": "中小企业数字化预算调查",
+    "url": "https://www.statista.com/study/smb-digital-budget-2026",
+    "snippet": "中小企业在营销和销售效率工具的预算增长显著，但对实施周期更敏感。",
+    "source_name": "Statista",
+    "published_at": "2026-02-20"
+  },
+  {
+    "title": "企业采用AI客服的风险与治理",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-22/ai-customer-service-risk-governance",
+    "snippet": "企业关注模型幻觉、数据泄露与合规审计，风险治理成为采购前置条件。",
+    "source_name": "Bloomberg",
+    "published_at": "2026-03-22"
+  },
+  {
+    "title": "SaaS企业增长策略与留存",
+    "url": "https://www.wsj.com/business/technology/saas-growth-and-retention-2026",
+    "snippet": "SaaS增长趋于理性，客户更重视可衡量价值和长期留存收益。",
+    "source_name": "WSJ",
+    "published_at": "2026-01-30"
+  },
+  {
+    "title": "行业观点：AI外呼的合规边界",
+    "url": "https://www.infoq.cn/article/ai-outbound-call-compliance",
+    "snippet": "AI外呼需满足隐私保护、数据授权和人工兜底机制，合规能力是竞争关键。",
+    "source_name": "InfoQ",
+    "published_at": "2025-11-10"
+  },
+  {
+    "title": "全球企业AI落地现状",
+    "url": "https://www.deloitte.com/global/en/issues/ai-adoption-report.html",
+    "snippet": "企业AI adoption率提升明显，但大规模推广仍受组织能力和ROI证明约束。",
+    "source_name": "Deloitte",
+    "published_at": "2025-10-17"
+  },
+  {
+    "title": "私有化部署与数据安全白皮书",
+    "url": "https://www.ibm.com/reports/private-deployment-ai-security",
+    "snippet": "高敏行业偏好私有化部署和混合架构，以平衡模型能力与数据安全。",
+    "source_name": "IBM",
+    "published_at": "2026-04-05"
+  },
+  {
+    "title": "企业采购AI产品的评估清单",
+    "url": "https://www.gartner.com/en/articles/ai-vendor-evaluation-checklist",
+    "snippet": "评估清单包括可解释性、可运维性、集成能力和总拥有成本。",
+    "source_name": "Gartner",
+    "published_at": "2025-09-01"
+  }
+]
+
